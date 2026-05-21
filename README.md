@@ -1,2 +1,2 @@
 # quantized-neurons
-Code for "Canonical Quantization of Neurons"
+Code for "Fermi--Dirac machines as quantizations of neurons"
